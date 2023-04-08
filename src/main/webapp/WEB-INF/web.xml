@@ -13,14 +13,4 @@
    <param-name>type</param-name>
    <param-value>mysql</param-value>
   </context-param>
-  <servlet>
-    <description></description>
-    <display-name>UsuarioServlet</display-name>
-    <servlet-name>UsuarioServlet</servlet-name>
-    <servlet-class>co.empresa.test.controller.UsuarioServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>UsuarioServlet</servlet-name>
-    <url-pattern>/UsuarioServlet</url-pattern>
-  </servlet-mapping>
 </web-app>
