@@ -12,5 +12,6 @@
   <context-param>
    <param-name>type</param-name>
    <param-value>mysql</param-value>
+   
   </context-param>
 </web-app>
